@@ -4,6 +4,8 @@
 
 # taylor wilsdon
 
+![taylorwilsdon's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylorwilsdon&show_icons=true&theme=transparent)
+
 mostly infra & llm‑platform stuff, mcp & tool servers • everything MIT licensed • 
 contrib @open-webui @roocode @yelp
 
