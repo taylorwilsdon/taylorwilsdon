@@ -6,9 +6,11 @@
 
 ![taylorwilsdon's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylorwilsdon&show_icons=true&theme=transparent)
 
-mostly infra, security / privacy & llm‑platform stuff + mcp & tool servers • everything MIT licensed • 
+mostly infra, security / privacy & llm‑platform stuff + mcp & tool servers • everything MIT licensed
+
 contrib @open-webui @roocode @yelp @modelcontextprotocol @anthropic
-maintain workspace mcp • netshow • quantconnect mcp • mcpo • reclaimed
+
+maintain [workspace mcp](https://workspacemcp.com/) • [netshow](https://github.com/taylorwilsdon/netshow) • [quantconnect mcp](https://quantratic.com/mcp) • [mcpo](https://github.com/open-webui/mcpo) • [reclaimed](https://github.com/taylorwilsdon/reclaimed) • [reddacted](https://reddacted.org/)
 
 [personal site](https://taylorwilsdon.com) • [linkedin](https://linkedin.com/in/taylorbarrettwilsdon)
 
