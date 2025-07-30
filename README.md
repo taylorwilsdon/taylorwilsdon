@@ -8,8 +8,9 @@
 
 mostly infra, security / privacy & llm‑platform stuff + mcp & tool servers • everything MIT licensed • 
 contrib @open-webui @roocode @yelp @modelcontextprotocol @anthropic
+maintain workspace mcp • netshow • quantconnect mcp • mcpo • reclaimed
 
-[Website](https://taylorwilsdon.com) • [LinkedIn](https://linkedin.com/in/taylorbarrettwilsdon)
+[personal site](https://taylorwilsdon.com) • [linkedin](https://linkedin.com/in/taylorbarrettwilsdon)
 
 </td>
 <td valign="top" align="right">
