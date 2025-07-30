@@ -7,7 +7,7 @@
 ![taylorwilsdon's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylorwilsdon&show_icons=true&theme=transparent)
 
 mostly infra, security / privacy & llm‑platform stuff + mcp & tool servers • everything MIT licensed • 
-contrib @open-webui @roocode @yelp
+contrib @open-webui @roocode @yelp @modelcontextprotocol @anthropic
 
 [Website](https://taylorwilsdon.com) • [LinkedIn](https://linkedin.com/in/taylorbarrettwilsdon)
 
