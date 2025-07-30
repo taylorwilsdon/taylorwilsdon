@@ -4,7 +4,7 @@
 
 # taylor wilsdon
 
-mostly infra & llm‑platform stuff, mcp & tool servers • everything MIT licensed
+mostly infra & llm‑platform stuff, mcp & tool servers • everything MIT licensed • 
 contrib @open-webui @roocode @yelp
 
 [Website](https://taylorwilsdon.com) • [LinkedIn](https://linkedin.com/in/taylorbarrettwilsdon)
