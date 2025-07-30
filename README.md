@@ -8,7 +8,7 @@
 
 mostly infra, security / privacy & llm‑platform stuff + mcp & tool servers • everything MIT licensed
 
-contrib @[open-webui](https://github.com/open-webui/open-webui) @[roocode](https://github.com/RooCodeInc/Roo-Code) @[yelp](https://github.com/yelp) @[modelcontextprotocol](https://github.com/modelcontextprotocol/servers) @[anthropic](https://github.com/anthropics)
+contrib @[open-webui](https://github.com/open-webui/open-webui) @[roocode](https://github.com/RooCodeInc/Roo-Code) @[yelp](https://github.com/yelp) @[modelcontextprotocol](https://github.com/modelcontextprotocol/servers) / @[anthropic](https://github.com/anthropics)
 
 maintain [workspace mcp](https://workspacemcp.com/) • [netshow](https://github.com/taylorwilsdon/netshow) • [quantconnect mcp](https://quantratic.com/mcp) • [mcpo](https://github.com/open-webui/mcpo) • [reclaimed](https://github.com/taylorwilsdon/reclaimed) • [reddacted](https://reddacted.org/)
 
