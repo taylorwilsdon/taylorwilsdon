@@ -19,7 +19,7 @@ maintain @ [workspace mcp](https://workspacemcp.com/) • [netshow](https://gith
   <img src="https://github.com/user-attachments/assets/d7854b75-e4fb-499d-8d5d-f84ddcc02b52" width="80%" alt="GitRoll contribution areas"/>
 </a>
 
-![taylorwilsdon's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylorwilsdon&show_icons=true&theme=transparent)
+<!-- ![taylorwilsdon's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylorwilsdon&show_icons=true&theme=transparent) -->
 
 </td>
 </tr>
